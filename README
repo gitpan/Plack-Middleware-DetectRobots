@@ -1,0 +1,13 @@
+
+
+This archive contains the distribution Plack-Middleware-DetectRobots,
+version 0.01:
+
+  Automatically set a flag in the environment if a robot client is detected
+
+This software is copyright (c) 2014 by Heiko Jansen.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
+
