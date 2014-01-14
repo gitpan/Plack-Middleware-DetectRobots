@@ -1,7 +1,7 @@
 
 package Plack::Middleware::DetectRobots;
 {
-  $Plack::Middleware::DetectRobots::VERSION = '0.01';
+  $Plack::Middleware::DetectRobots::VERSION = '0.02';
 }
 
 # ABSTRACT: Automatically set a flag in the environment if a robot client is detected
@@ -109,7 +109,7 @@ Plack::Middleware::DetectRobots - Automatically set a flag in the environment if
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 

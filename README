@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution Plack-Middleware-DetectRobots,
-version 0.01:
+version 0.02:
 
   Automatically set a flag in the environment if a robot client is detected
 
